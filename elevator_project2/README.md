@@ -1,5 +1,17 @@
-# CreativeCoding_oF_F15_Michae_Glen
+# Elevator - Project 3
 
-Michael Glen is an artist working at the intersection of design and technology. He uses light, projection and interactivity to create sensory experiences, speculative futures and designed interventions within existing spaces.
+This project is a system designed to control an interactive installation 
 
-![Smaller icon](http://static1.squarespace.com/static/54be969ae4b0bd77453472ac/t/5602d252e4b0777b2994fa2e/1443025627180/?format=1500w "Michael Glen")
+This presented a range of technical challenges to produce real time performance sending a 4k video output to be distributed amongst an array of projectors.
+
+The hidden control mechanism to accelerate the movement of the virtual environment was constructed by modifying a wireless mouse to accept signals from buttons embedded in the shoe of the performer.
+
+Additionaly an audio system of the installation used a system of vertical stereo to enhance immersion by distributing sound spatially between speakers in the ceiling of the tube and close to the floor.
+
+Video docuentation of this installation is available here - the password is hifocus
+
+https://vimeo.com/150039288
+
+---
+
+![Imgur](http://i.imgur.com/qOAbfju.jpg)

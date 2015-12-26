@@ -1,5 +1,13 @@
-# CreativeCoding_oF_F15_Michae_Glen
+# Mandala - Project 3
 
-Michael Glen is an artist working at the intersection of design and technology. He uses light, projection and interactivity to create sensory experiences, speculative futures and designed interventions within existing spaces.
+Note: This code has been rewritten slightly 
 
-![Smaller icon](http://static1.squarespace.com/static/54be969ae4b0bd77453472ac/t/5602d252e4b0777b2994fa2e/1443025627180/?format=1500w "Michael Glen")
+Mapping geometry using video textures. The vertices of the geometry are pushed in to particle vectors where physics can act upon them and then pushed back again and rendered as wireframe.
+
+Makes use of openGL additive blending
+
+![Imgur](http://i.imgur.com/KPPmOXR.jpg)
+
+
+
+
