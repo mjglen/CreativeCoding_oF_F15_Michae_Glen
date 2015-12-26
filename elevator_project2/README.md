@@ -1,4 +1,4 @@
-# Elevator - Project 3
+# Elevator - Project 2
 
 This project is a system designed to control an interactive installation 
 
